@@ -1,6 +1,6 @@
 # Docker for COOL Compiler (Student Distribution)
 This docker configuration is created for teaching the Compiler Construction courses at Umm Al-Qura University. 
-You can want the video tutorial on MacOS.
+You can want the [video tutorial on MacOS](https://www.youtube.com/watch?v=1Dbzo9HiDwk).
 
 ## Installing Docker
 Before starting this. You need to install Docker. Go to the following link to install Docker.
