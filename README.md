@@ -19,7 +19,15 @@ docker compose run cool
 
 # Notes
 This docker image is based on 32-bit Ubuntu.
-This is tested on Apple M1 with Ventura 13.4.1.
+This is tested on:
+- Apple M1 with Ventura 13.4.1.
+- Core i7 with Windows Pro 10.
+
+## For Windows Pro 10
+To get Docker running without errors, you may need to run:
+```bash
+wsl --install
+```
 
 # Author
 Thamir M. Qadah
