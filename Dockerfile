@@ -6,7 +6,7 @@ RUN apt-get install -y \
   bison \
   build-essential \
   csh \
-  default-jdk \
+  openjdk-6-jdk \
   libxaw7-dev \
   nano \
   wget 
